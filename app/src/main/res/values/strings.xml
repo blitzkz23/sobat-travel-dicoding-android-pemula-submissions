@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sobat Travel</string>
+    <string name="sobat_travel">Sobat\nTravel</string>
+    <string name="hai_naufal">Hai, Naufal</string>
+    <string name="main_heading">Mau liburan kemana \nkali ini?</string>
+    <string name="main_subtitle">Rekomendasi</string>
+    <string name="location_of_the_image">Location of the image</string>
+    <string name="naufal_aldy_pradana">Naufal Aldy Pradana</string>
+    <string name="blitzaldykazu_gmail_com">blitzaldykazu@gmail.com</string>
+    <string name="contact_me">Contact me:</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="recycler_image">Recycler Image</string>
+    <string name="about">About</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="share">Share</string>
+    <string name="idr">IDR</string>
+</resources>
