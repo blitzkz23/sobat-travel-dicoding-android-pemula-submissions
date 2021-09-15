@@ -7,7 +7,9 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     android:background="@color/background_white"
-    android:padding="16dp">
+    android:paddingTop="16dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp">
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/am_iv_user_image"
@@ -54,8 +56,8 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/am_rv_destination"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
         android:layout_below="@id/am_tv_recommendation"
         android:layout_marginTop="8dp"
         tools:listitem="@layout/item_cardview_destination" />
