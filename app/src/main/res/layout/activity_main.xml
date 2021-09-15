@@ -9,7 +9,8 @@
     android:background="@color/background_white"
     android:paddingTop="16dp"
     android:paddingStart="16dp"
-    android:paddingEnd="16dp">
+    android:paddingEnd="16dp"
+    android:paddingBottom="2dp">
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/am_iv_user_image"
